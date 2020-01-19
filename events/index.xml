@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/events/</link>
+    <description>Recent content in Events on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://redhatgov.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible Network Automation Workshop - Dallas</title>
+      <link>http://redhatgov.io/events/20200130-ansible-network-automation-workshop-dallas-baea1c6c2a3e31bba6bad57253dfab37/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20200130-ansible-network-automation-workshop-dallas-baea1c6c2a3e31bba6bad57253dfab37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Network Automation Workshop - Austin</title>
+      <link>http://redhatgov.io/events/20200129-ansible-network-automation-workshop-austin-c26296de16bb7a65bbf80584c14d7fef/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20200129-ansible-network-automation-workshop-austin-c26296de16bb7a65bbf80584c14d7fef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Network Automation Workshop</title>
+      <link>http://redhatgov.io/events/20200122-ansible-network-automation-workshop-909d990194b948f4fabaa4706ae75e4e/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20200122-ansible-network-automation-workshop-909d990194b948f4fabaa4706ae75e4e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
